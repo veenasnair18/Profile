@@ -16,11 +16,6 @@
 </br>
 </br>
  
- </br>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=veenasnair18&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</br>
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&hide=javascript,css,scss,html&theme=merko)
 <img align="left" width="250" height="150" src = "https://user-images.githubusercontent.com/38048590/146058407-a3b5286d-01ad-4779-8194-64eebc57cbc5.gif " >
