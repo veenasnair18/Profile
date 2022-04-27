@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Veena(☞ﾟヮﾟ)☞💝!
 </h1>
-
+### :woman_technologist: About Me :
 ![Vee](https://user-images.githubusercontent.com/38048590/146051543-f81bcad9-5a7d-4c7e-b0b5-410d291178be.gif)
 
 ## You can find me on :
