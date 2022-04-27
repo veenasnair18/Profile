@@ -16,15 +16,8 @@
 </br>
 </br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Blah](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" width="250" height="150" src = "https://user-images.githubusercontent.com/38048590/146058407-a3b5286d-01ad-4779-8194-64eebc57cbc5.gif " >
-
-</br>
-</br>
-
-[![Veena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veenasnair18)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" width="250" height="150" src = "https://user-images.githubusercontent.com/38048590/165455809-5e6b9d2f-de49-4ff8-97f4-cd19c8373594.gif">
-
 
 
 
