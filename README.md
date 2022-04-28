@@ -24,7 +24,7 @@
 </br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=merko&hide=Jupyter Notbook)
 <img align="left" width="250" height="150" src = "https://user-images.githubusercontent.com/38048590/146058407-a3b5286d-01ad-4779-8194-64eebc57cbc5.gif " >
 
 
