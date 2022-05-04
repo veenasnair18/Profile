@@ -17,15 +17,20 @@
 
 ![header3 (1)](https://user-images.githubusercontent.com/38048590/146218038-58bb3295-75aa-4d44-97c6-299bccb47bba.gif)
 
-![Veena's GitHub stats](https://github-readme-stats.vercel.app/api?username=veenasnair18&show_icons=true&theme=merko)
-<img align="left" width="250" height="150" src= "https://user-images.githubusercontent.com/38048590/146056748-9c6be3b7-fe4d-4cd7-9681-19e7919be92d.gif" >
+
+<img align="left" width="445" height="250" src= "https://user-images.githubusercontent.com/38048590/146056748-9c6be3b7-fe4d-4cd7-9681-19e7919be92d.gif" >
+
+![Veena's GitHub stats](https://github-readme-stats.vercel.app/api?username=veenasnair18&show_icons=true&theme=merko&&card_width=445)
 
 </br>
 </br>
+</br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=merko&hide=jupyter%20notebook)
-<img align="left" width="250" height="150" src = "https://user-images.githubusercontent.com/38048590/146058407-a3b5286d-01ad-4779-8194-64eebc57cbc5.gif " >
+<img align="left" width="445" height="250" src = "https://user-images.githubusercontent.com/38048590/146058407-a3b5286d-01ad-4779-8194-64eebc57cbc5.gif " >
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=merko&hide=jupyter%20notebook&&exclude_repo=2022_IBM_Code_Challenge_Drone_Delivery&&card_width=445&&card_height=250)
 
 
 
