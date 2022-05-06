@@ -30,7 +30,7 @@
 <img align="left" width="250" height="150" src = "https://user-images.githubusercontent.com/38048590/146058407-a3b5286d-01ad-4779-8194-64eebc57cbc5.gif " >
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=merko&hide=jupyter%20notebook&&exclude_repo=2022_IBM_Code_Challenge_Drone_Delivery&&card_width=445&&card_height=250)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=merko&hide=jupyter%20notebook&&exclude_repo=2022_IBM_Code_Challenge_Falco&&card_width=445&&card_height=250)
 
 
 
