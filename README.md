@@ -45,6 +45,7 @@ Programmer
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red")](veenasreekumar4193@gmail.com)
 
 ---
+<div align = "center">
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veenasnair18&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -53,6 +54,9 @@ Programmer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=vision-friendly-dark&hide=jupyter%20notebook&&exclude_repo=2022_IBM_Code_Challenge_Falco&&card_width=445&&card_height=250)
 
+</div>
+
+---
 <div align="center">
 <a href="https://youtu.be/zR043fcuV0Y">
 <img src="https://user-images.githubusercontent.com/38048590/184340883-8a1c1e08-bb4f-4953-88ae-896c3dfd50be.gif" >
