@@ -24,7 +24,7 @@
 </div>
 </h1>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38048590/184331568-df89442b-8940-4a67-9605-3560d326cdee.gif" width="1000" height="300"/>
+  <img src="https://user-images.githubusercontent.com/38048590/184331568-df89442b-8940-4a67-9605-3560d326cdee.gif" />
 </div>
 
 ### :woman_technologist: About Me :
