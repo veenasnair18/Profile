@@ -20,7 +20,8 @@
 <h1>
   Helloii!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Veena(☞ﾟヮﾟ)☞💝!
+  I'm Vee 
+  <img src="https://media.giphy.com/media/chnc8Ta64a6EdaRUd1/giphy.gif" width="50px"/>
 </div>
 </h1>
 <div align="center">
@@ -31,17 +32,19 @@
 Programmer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 
 <img src ="https://media.giphy.com/media/TjvFqcK5E6xZJOLEQC/giphy.gif" width="30">
-- :telescope: My Favourite Programming Language is <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> 
 
-- :seedling: Currently learning front end development <img src="https://media.giphy.com/media/Q5j9uCrHpIV6bzdNFo/giphy.gif" width="30">
 
-- :electron: I am really interested in Data Science and Natural Language Processing <img src="https://media.giphy.com/media/FQV0fCf1z4MWrnzDf6/giphy.gif" width="30">
+ :telescope: My Favourite Programming Language is <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> 
 
-- :name_badge: Pronouns: She/They <img src="https://media.giphy.com/media/xDuXxKcv611TpmuhR5/giphy.gif" width="30">
+ :seedling: Currently learning about front end development <img src="https://media.giphy.com/media/Q5j9uCrHpIV6bzdNFo/giphy.gif" width="30">
 
-- :zap: In my free time, I love to solve problems on hackerrank or watch dramas. <img src="https://media.giphy.com/media/yC2bPPqRH9sPLNgsOH/giphy.gif" width="30">
+ :electron: I am really interested in Data Science and Natural Language Processing <img src="https://media.giphy.com/media/FQV0fCf1z4MWrnzDf6/giphy.gif" width="30">
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/veenasreekumarnair/)
+ :name_badge: Pronouns: She/They <img src="https://media.giphy.com/media/xDuXxKcv611TpmuhR5/giphy.gif" width="30px">
+
+ :zap: In my free time,either I solve problems on hackerrank or watch dramas. <img src="https://media.giphy.com/media/yC2bPPqRH9sPLNgsOH/giphy.gif" width="30">
+
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/veenasreekumarnair/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red")](veenasreekumar4193@gmail.com)
 
 ---
