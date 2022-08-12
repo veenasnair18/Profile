@@ -1,37 +1,63 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YQBb4iTn2O4bzxeF6B/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/veenasreekumarnair/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/sreekumar_veena">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href = "https://www.hackerrank.com/VeeNova">
+  <img src="https://img.shields.io/badge/-Hackerrank-brightgreen?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://leetcode.com/VeeNova/">
+  <img src="https://img.shields.io/badge/-Leetcode-yellow?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
+  
+</div>
+<div align="center">
 <h1>
-  Konnichiwa!!
+  Helloii!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Veena(☞ﾟヮﾟ)☞💝!
+</div>
 </h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38048590/184331568-df89442b-8940-4a67-9605-3560d326cdee.gif" width="1000" height="300"/>
+</div>
 
 ### :woman_technologist: About Me :
+Programmer
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 
+<img src ="https://media.giphy.com/media/TjvFqcK5E6xZJOLEQC/giphy.gif" width="30">
+- :telescope: My Favourite Programming Language is <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> 
 
+- :seedling: Currently learning front end development <img src="https://media.giphy.com/media/Q5j9uCrHpIV6bzdNFo/giphy.gif" width="30">
 
-![Vee](https://user-images.githubusercontent.com/38048590/146051543-f81bcad9-5a7d-4c7e-b0b5-410d291178be.gif)
+- :electron: I am really interested in Data Science and Natural Language Processing <img src="https://media.giphy.com/media/FQV0fCf1z4MWrnzDf6/giphy.gif" width="30">
 
-## You can find me on :
+- :name_badge: Pronouns: She/They <img src="https://media.giphy.com/media/xDuXxKcv611TpmuhR5/giphy.gif" width="30">
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
+- :zap: In my free time, I love to solve problems on hackerrank or watch dramas. <img src="https://media.giphy.com/media/yC2bPPqRH9sPLNgsOH/giphy.gif" width="30">
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/veenasreekumarnair/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red")](veenasreekumar4193@gmail.com)
 
-![header3 (1)](https://user-images.githubusercontent.com/38048590/146218038-58bb3295-75aa-4d44-97c6-299bccb47bba.gif)
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veenasnair18&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img align="left" width="250" height="150" src= "https://user-images.githubusercontent.com/38048590/146056748-9c6be3b7-fe4d-4cd7-9681-19e7919be92d.gif" >
+![Veena's GitHub stats](https://github-readme-stats.vercel.app/api?username=veenasnair18&show_icons=true&theme=vision-friendly-dark&&card_width=445&&card_height=250)
 
-![Veena's GitHub stats](https://github-readme-stats.vercel.app/api?username=veenasnair18&show_icons=true&theme=merko&&card_width=445&&card_height=250)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=vision-friendly-dark&hide=jupyter%20notebook&&exclude_repo=2022_IBM_Code_Challenge_Falco&&card_width=445&&card_height=250)
 
-</br>
-</br>
-</br>
-
-
-<img align="left" width="250" height="150" src = "https://user-images.githubusercontent.com/38048590/146058407-a3b5286d-01ad-4779-8194-64eebc57cbc5.gif " >
-</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=merko&hide=jupyter%20notebook&&exclude_repo=2022_IBM_Code_Challenge_Falco&&card_width=445&&card_height=250)
-
+<div align="center">
+<a href="https://youtu.be/zR043fcuV0Y">
+<img src="https://user-images.githubusercontent.com/38048590/184340883-8a1c1e08-bb4f-4953-88ae-896c3dfd50be.gif" >
+</a>
+</div>
 
 
 
