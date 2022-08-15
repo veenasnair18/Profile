@@ -25,7 +25,9 @@
 </div>
 </h1>
 <div align="center">
+  <a href="https://youtu.be/xo1VInw-SKc">
   <img src="https://user-images.githubusercontent.com/38048590/184331568-df89442b-8940-4a67-9605-3560d326cdee.gif" />
+  </a>
 </div>
 
 ### :woman_technologist: About Me :
@@ -45,7 +47,7 @@ Programmer
  :zap: In my free time,either I solve problems on hackerrank or watch dramas. <img src="https://media.giphy.com/media/yC2bPPqRH9sPLNgsOH/giphy.gif" width="30">
 
  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/veenasreekumarnair/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red")](veenasreekumar4193@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red")](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGLrNDLpKxdwsltDMMnJFcrHhFWxQlCvTVzdrscGxnPfHpJBxlDRkRgSpvMzlJGsblSlBKj)
 
 ---
 <div align = "center">
