@@ -14,6 +14,9 @@
   <a href="https://leetcode.com/VeeNova/">
   <img src="https://img.shields.io/badge/-Leetcode-yellow?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode Badge"/>
   </a>
+  <a href="https://www.notion.so/veenova/VEENA-S-KUMAR-56aa8c341ab0447f90e0ce7f14b0ab39">
+  <img src="https://img.shields.io/badge/-Resume-lightgrey?style=for-the-badge&logo=Notion&logoColor=white" alt="Resume"/>
+  </a>
   
 </div>
 <div align="center">
