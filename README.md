@@ -51,7 +51,7 @@ Programmer
  
  :desktop_computer: Currently working as a Consultant at <img src="https://media.giphy.com/media/eKleRTvdp0qXR8l3e7/giphy.gif" width="30">
  
- :mag_right: If you have interesting Machine Learning projects,sign me up! <img src="https://media.giphy.com/media/Q2tN4Ewh5uUtlWDgoI/giphy.gif" width="30">
+ :mag_right: If you have any interesting Machine Learning projects,sign me up! <img src="https://media.giphy.com/media/Q2tN4Ewh5uUtlWDgoI/giphy.gif" width="30">
 
  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/veenasreekumarnair/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red")](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGLrNDLpKxdwsltDMMnJFcrHhFWxQlCvTVzdrscGxnPfHpJBxlDRkRgSpvMzlJGsblSlBKj)
