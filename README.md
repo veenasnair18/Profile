@@ -28,7 +28,7 @@
 </div>
 </h1>
 <div align="center">
-  <a href="https://youtu.be/xo1VInw-SKc">
+  <a href="https://www.youtube.com/watch?v=xo1VInw-SKc">
   <img src="https://user-images.githubusercontent.com/38048590/184331568-df89442b-8940-4a67-9605-3560d326cdee.gif" />
   </a>
 </div>
@@ -70,7 +70,7 @@ Programmer
 
 ---
 <div align="center">
-<a href="https://youtu.be/zR043fcuV0Y">
+<a href="https://www.youtube.com/watch?v=zR043fcuV0Y">
 <img src="https://user-images.githubusercontent.com/38048590/184340883-8a1c1e08-bb4f-4953-88ae-896c3dfd50be.gif" >
 </a>
 </div>
