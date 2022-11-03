@@ -17,16 +17,16 @@
   <a href="https://www.notion.so/veenova/VEENA-S-KUMAR-56aa8c341ab0447f90e0ce7f14b0ab39">
   <img src="https://img.shields.io/badge/-Resume-lightgrey?style=for-the-badge&logo=Notion&logoColor=white" alt="Resume"/>
   </a>
-  
 </div>
 <div align="center">
 <h1>
   Helloii!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/9JUldwxDTaFH9fbY6h/giphy.gif" width="100px"/>
   I'm Vee 
   <img src="https://media.giphy.com/media/chnc8Ta64a6EdaRUd1/giphy.gif" width="50px"/>
 </div>
 </h1>
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=xo1VInw-SKc">
   <img src="https://user-images.githubusercontent.com/38048590/184331568-df89442b-8940-4a67-9605-3560d326cdee.gif" />
@@ -58,6 +58,7 @@ Programmer
 
 ---
 <div align = "center">
+  
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veenasnair18&theme=dark&background=000000)](https://git.io/streak-stats)
