@@ -33,7 +33,7 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&width=435&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
 Programmer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 
 <img src ="https://media.giphy.com/media/TjvFqcK5E6xZJOLEQC/giphy.gif" width="30">
