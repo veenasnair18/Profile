@@ -61,13 +61,11 @@ Programmer
   
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veenasnair18&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veenasnair18&theme=tokyonight)](https://git.io/streak-stats)
+  
+ ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veenasnair18&theme=tokyonight&&hide=jupyter%20notebook&&exclude_repo=2022_IBM_Code_Challenge_Falco&&card_width=445&&card_height=250)
+ ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=veenasnair18&theme=tokyonight&&card_width=445&&card_height=250)
 
-<!--
-![Veena's GitHub stats](https://github-readme-stats.vercel.app/api?username=veenasnair18&show_icons=true&theme=vision-friendly-dark&&card_width=445&&card_height=250)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenasnair18&theme=vision-friendly-dark&hide=jupyter%20notebook&&exclude_repo=2022_IBM_Code_Challenge_Falco&&card_width=445&&card_height=250)
-//-->
 </div>
 
 ---
