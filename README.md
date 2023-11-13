@@ -49,7 +49,7 @@ Programmer
 
  :zap: In my free time,either I solve problems on hackerrank or watch dramas. <img src="https://media.giphy.com/media/yC2bPPqRH9sPLNgsOH/giphy.gif" width="30">
  
- :desktop_computer: Currently working as a Consultant at <img src="https://media.giphy.com/media/eKleRTvdp0qXR8l3e7/giphy.gif" width="30">
+ :desktop_computer: Currently working as a Associate at <img src="https://media.giphy.com/media/eKleRTvdp0qXR8l3e7/giphy.gif" width="30">
  
  :mag_right: If you have any interesting Machine Learning projects,sign me up! <img src="https://media.giphy.com/media/Q2tN4Ewh5uUtlWDgoI/giphy.gif" width="30">
 
