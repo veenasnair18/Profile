@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YQBb4iTn2O4bzxeF6B/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FvdmIxMGl1Z2JwcWJ3bGN4ZWhmYnZnYjYxdHo3N3BpOGtsODZuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/A9dZqpVpbLsju/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/veenasreekumarnair/">
@@ -23,10 +23,9 @@
   Helloii!!
   <img src="https://media.giphy.com/media/9JUldwxDTaFH9fbY6h/giphy.gif" width="100px"/>
   I'm Vee 
-  <img src="https://media.giphy.com/media/chnc8Ta64a6EdaRUd1/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZja2szMXdicDBvaGg5ZjN0NGNwaWl6Y2prb3g1aW5jeDFkbzI1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/if2QnqqDNyIyfgD2Ze/giphy.gif" width="50px"/>
 </div>
 </h1>
-
 <div align="center">
   <a href="https://www.youtube.com/watch?v=xo1VInw-SKc">
   <img src="https://user-images.githubusercontent.com/38048590/184331568-df89442b-8940-4a67-9605-3560d326cdee.gif" />
@@ -49,7 +48,7 @@ Programmer
 
  :zap: In my free time,either I solve problems on hackerrank or watch dramas. <img src="https://media.giphy.com/media/yC2bPPqRH9sPLNgsOH/giphy.gif" width="30">
  
- :desktop_computer: Currently working as a Associate at <img src="https://media.giphy.com/media/eKleRTvdp0qXR8l3e7/giphy.gif" width="30">
+ :desktop_computer: Currently working as Associate at <img src="https://media.giphy.com/media/eKleRTvdp0qXR8l3e7/giphy.gif" width="30">
  
  :mag_right: If you have any interesting Machine Learning projects,sign me up! <img src="https://media.giphy.com/media/Q2tN4Ewh5uUtlWDgoI/giphy.gif" width="30">
 
